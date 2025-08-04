@@ -1,4 +1,4 @@
-# Python Automation Suite (Selenium Edition)
+# Python Automation Suite
 
 Automatizações reais com Selenium para produtividade profissional.
 
